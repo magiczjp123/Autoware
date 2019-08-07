@@ -7,7 +7,7 @@
 	url = https://github.com/CPFL/robosense
 [submodule "docker/generic/data"]
 	path = docker/generic/data
-	url = ../autoware-perception.git
+	url = https://github.com/lgsvl/autoware-perception.git
 [submodule "ros/src/msgs/lgsvl_msgs"]
 	path = ros/src/msgs/lgsvl_msgs
-	url = ../lgsvl_msgs.git
+	url = https://github.com/lgsvl/lgsvl_msgs.git
